@@ -1,1 +1,3 @@
-test
+function callParent(){
+	alert("My Parent");
+}
